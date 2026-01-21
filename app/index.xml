@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plinko App : Guide Complet, Avis et Stratégies on Plinko</title>
-    <link>http://localhost:1313/app/</link>
+    <link>http://plinko-jeuxenligne.fr/app/</link>
     <description>Recent content in Plinko App : Guide Complet, Avis et Stratégies on Plinko</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://plinko-jeuxenligne.fr/app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
