@@ -1,0 +1,11 @@
+name = "plinko-jeuxenligne-fr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=plinko-jeuxenligne.fr"
+HMAC_KEY = "7bb3869b13319ad978c031753e23d3f0fb8e0a047080b72ba31f54c0f8ebd933"
+COOKIE_NAME = "3st"
+PLAY_PATH = "play-now"
+BUTTON_ID = "p99b331718fdb311e81322f76a72b292d"
+GATE_SALT = "149aaf436c5ec856"
